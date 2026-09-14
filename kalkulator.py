@@ -1,0 +1,27 @@
+inp = input()
+if inp == "a":
+    a = float(input())
+    b = float(input())
+    print(a+b)
+elif inp == "b":
+     a = float(input())
+     b = float(input())
+     print(a-b)
+elif inp == "c":
+     a = float(input())
+     b = float(input())
+     print(a*b)
+elif inp == "d":
+     a = float(input())
+     b = float(input())
+     print(a/b)
+elif inp == "e":
+     a = float(input())
+     b = float(input())
+     print(a%b)
+elif inp == "f":
+     a = float(input())
+     b = float(input())
+     print(a**b)
+else:
+     print("nie ma takiej operacji")
