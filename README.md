@@ -1,1 +1,1 @@
-# kalkulator-prawid-owy-
+# kalkulator OK
